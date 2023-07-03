@@ -12,5 +12,5 @@
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>  
    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-     <img alt="taotao7's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=taotao7&theme=merko"/></a>
+     <img alt="taotao7's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=taotao7&theme=dracula"/></a>
   <br/>
